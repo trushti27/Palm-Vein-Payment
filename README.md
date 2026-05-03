@@ -31,3 +31,11 @@ Technologies Used
 Programming Language: Python
 Libraries: OpenCV, NumPy, SQLite
 Dataset: Palm Image Dataset from Kaggle
+
+## Limitations
+- No real hardware integration
+- Simulation-based authentication
+
+## Future Scope
+- Integration with real biometric devices
+- Deployment as a secure payment API
